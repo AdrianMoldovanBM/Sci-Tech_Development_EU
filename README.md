@@ -8,7 +8,7 @@ Using Python, I applied **descriptive statistics** to summarize the data and per
 
 **Ireland** stands at the forefront of **Information and Communications Technology (ICT)** service exports with a total of **more than 40%** of the BoP, with values **ranging from 50 to 70 billion dollars** every year.
 
-In the ""Scientific and technical journal articles** Germany also leads ith over a houndred thousand  publishes a year.
+In the **Scientific and technical journal articles** Germany also leads with over **a hundred thousand  publishes a year.**
 
 The correlation graph shows a **significant close relationship between the number of researchers in R&D and the level of research and development investments.**
 
