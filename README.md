@@ -13,3 +13,4 @@ The correlation graph shows a significant close relationship between the number 
 In countries with a large number of researchers, we also find many technicians in R&D fields, which of course are closely related to how much a country invests in development.
 
 High Technology exports are also correlated with the number of scientific and technical journal articles published every year. Countries with a large number of publications have more HT exports.
+![Presentation](https://github.com/user-attachments/assets/bb7943ac-e6fc-42b9-8cdd-a38824239c47)
